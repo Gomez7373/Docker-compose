@@ -19,4 +19,4 @@ The following documentation will help you get a deeper understanding of the conc
 
 Familiarize yourself with Docker by going through the Docker Official Documentation and Docker 101 Tutorial.
 Learn about Docker Compose through the Docker Compose Documentation.
-Look into Docker image creation on devopscube.com and linux.com.
+Look into Docker image creation on devopscube.com and linux.com..
